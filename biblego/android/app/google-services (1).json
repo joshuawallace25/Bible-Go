@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "81050617926",
+    "project_id": "biblego-60b5b",
+    "storage_bucket": "biblego-60b5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81050617926:android:4cda0d810a08c1e042a247",
+        "android_client_info": {
+          "package_name": "com.example.biblego"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn_nBa35U3EE6Ws9ehPdFjR5zei3xh61A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
